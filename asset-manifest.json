@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sentiment-analyzer/static/css/main.e7720ab7.css",
+    "main.js": "/sentiment-analyzer/static/js/main.c9fbbcef.js",
+    "index.html": "/sentiment-analyzer/index.html",
+    "main.e7720ab7.css.map": "/sentiment-analyzer/static/css/main.e7720ab7.css.map",
+    "main.c9fbbcef.js.map": "/sentiment-analyzer/static/js/main.c9fbbcef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7720ab7.css",
+    "static/js/main.c9fbbcef.js"
+  ]
+}
